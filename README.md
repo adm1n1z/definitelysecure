@@ -1,20 +1,16 @@
 <p align="center">
-  <img src="definitelysecure-logo.png" alt="DefinitelySecure AI" width="180">
+  <img src="assets/definitelysecure-logo.png"
+       alt="DefinitelySecure AI"
+       width="700">
 </p>
 
-<h1 align="center">DefinitelySecure AI</h1>
-
 <p align="center">
-  Security visibility for modern AI workloads.
+  <strong>Security visibility for modern AI workloads.</strong>
 </p>
 
 <p align="center">
   <a href="https://definitelysecure.ai">Website</a> •
   <a href="https://definitelysecure.ai/app.html">Platform Demo</a>
-</p>
-
-<p align="center">
-  <img src="assets/definitelysecure-demo.gif" alt="DefinitelySecure AI platform demo" width="900">
 </p>
 
 ---
