@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/definitelysecure-logo.png"
+  <img src="definitelysecure-logo.png"
        alt="DefinitelySecure AI"
        width="700">
 </p>
