@@ -82,8 +82,6 @@ and helping teams maintain visibility across their environment.
 
 The DefinitelySecure platform consists of a lightweight web application and
 API backend.
-
-```text
                   ┌─────────────────────────┐
                   │   DefinitelySecure AI   │
                   │      Web Platform       │
